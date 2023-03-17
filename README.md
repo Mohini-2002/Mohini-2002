@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohini Das</h1>
 <p align="left">
   <p align="left">
-  <a href="https://github.com/Mohini-2002/Mohini-2002/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Aditya%20Gupta!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤.&font=Fira%20Code&left=true&width=440&height=45&color=FFD700&vleft=true&size=20"></a>
+  <a href="https://github.com/Mohini-2002/Mohini-2002/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Mohini%20Das!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤.&font=Fira%20Code&left=true&width=440&height=45&color=FFD700&vleft=true&size=20"></a>
   </p>
   <!--  -->
 I am Mohini Das, currently I am pursuing  B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
