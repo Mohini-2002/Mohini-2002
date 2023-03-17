@@ -1,5 +1,12 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="1200" height="200">
 <h1 align="center">Hi 👋, I'm Mohini Das</h1>
+<p align="left">
+  <a href="https://github.com/adityagupta0123/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Aditya%20Gupta!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤.&font=Fira%20Code&left=true&width=440&height=45&color=FFD700&vleft=true&size=20"></a>
+  </p>
+  <!--  -->
+I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img data-testid="image-asset" src="https://media.istockphoto.com/id/1199842427/vector/young-woman-working-at-home.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=HbxCaGizX42vmPjKlyovMIp1KQlPYbbnDi7d31dUYDU=" alt="Young Woman Working At Home Vector illustration of an attractive young woman with eyeglasses sitting at her desk in front of a computer at home. Concept for young people, students, working at home, domestic life, creativity, creative occupations, freelance work, web design and computer programming. Women stock vector" title="Young Woman Working At Home Vector illustration of an attractive young woman with eyeglasses sitting at her desk in front of a computer at home. Concept for young people, students, working at home, domestic life, creativity, creative occupations, freelance work, web design and computer programming. Women stock vector" style="max-height:;max-width:;object-fit:contain " fetchpriority="high"  height="500" width="100%" >
 
