@@ -7,9 +7,8 @@
   <!--  -->
 I am Mohini Das, currently I am pursuing  B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="Mohini-2002" /> </p>
   <!--  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img data-testid="image-asset" src="https://media.istockphoto.com/id/1199842427/vector/young-woman-working-at-home.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=HbxCaGizX42vmPjKlyovMIp1KQlPYbbnDi7d31dUYDU=" alt="Young Woman Working At Home Vector illustration of an attractive young woman with eyeglasses sitting at her desk in front of a computer at home. Concept for young people, students, working at home, domestic life, creativity, creative occupations, freelance work, web design and computer programming. Women stock vector" title="Young Woman Working At Home Vector illustration of an attractive young woman with eyeglasses sitting at her desk in front of a computer at home. Concept for young people, students, working at home, domestic life, creativity, creative occupations, freelance work, web design and computer programming. Women stock vector" style="max-height:;max-width:;object-fit:contain " fetchpriority="high"  height="500" width="100%" >
 
